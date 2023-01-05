@@ -1,0 +1,3 @@
+Hi there. This is a test to demonstrate the most basic method of creating a TTS wav file;Test1.wav;;;
+Hi there. This is a test to demonstrate explicitly setting the gender of the voice;Test2.wav;;gender=male;
+Hi there. This is a test to demonstrate explicitly choosing the save location of the wav file. This is not done normally due to the difference in location of the perforce folder on people's computers;Test3.wav;C:\TTSOutputAltDirectory;gender=female;
